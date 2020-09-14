@@ -1,7 +1,7 @@
 <br>
 
 # Hello 👋, Welcome to My GitHub Pages
-<img src="photo.jpg" width="256">
+<img src="photo.jpg" width="256" style="margin: auto;">
 
 ## [My Log](TXT/mylog.txt)
 <br>
