@@ -1,7 +1,7 @@
 ---
 ---
 
-# Hello 👋, Welcome to Althof's GitHUb Pages
+# Hello 👋, Welcome to My GitHub Pages
 
 ## [My Log](TXT/mylog.txt)
 <br>
