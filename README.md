@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages Althof
 
-Repo for Operation System Course
+Repo for Operating Systems Course
