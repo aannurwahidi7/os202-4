@@ -1,12 +1,7 @@
 ---
 ---
 
-[WEB](https://althof3.github.io/os202/)
-[GitHub](https://github.com/althof3/os202/)
-
-<br>
-
-# My name is CBKadal
+# Hello 👋, Welcome to Althof's GitHUb Pages
 
 ## [My Log](TXT/mylog.txt)
 <br>
@@ -25,5 +20,4 @@
 * [Week 09](W09/)
 * [Week 10](W10/)
 
--- CBK.
 
