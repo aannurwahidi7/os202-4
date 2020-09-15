@@ -1,4 +1,8 @@
 # Log Format
 # ZNZC week# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logcodes.txt
-ZNZC W00 10 L03 GitHub related
+ZNZC W00 60  L03 setup repo untuk OS
+ZNZC W00 60  L04 Init GitHub Pages dan 
+ZNZC W00 100 L02 zoom meeting
+ZNZC W00 60  L99 Course Udacity: Intro to Operating Systems
+ZNZC W00 7   L99 Youtube: Ubuntu Vs Debian | Which is the Best Linux Distro?
