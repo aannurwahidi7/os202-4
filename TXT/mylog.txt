@@ -10,3 +10,4 @@ ZNZC W01 120 L01 Scele Forum week 01
 ZNZC W01 120 L02 zoom sync meeteng
 ZNZC W01 10  L03 editing top 10 list week 00
 ZNZC W01 60  L05 pengertian dan tutorial Gawk dan bash
+ZNZC W01 10  L05 tutorial msauk ke BIOS di win10
