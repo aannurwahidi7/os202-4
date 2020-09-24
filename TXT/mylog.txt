@@ -6,3 +6,7 @@ ZNZC W00 60  L04 Init GitHub Pages dan
 ZNZC W00 100 L02 zoom meeting
 ZNZC W00 60  L99 Course Udacity: Intro to Operating Systems
 ZNZC W00 7   L99 Youtube: Ubuntu Vs Debian | Which is the Best Linux Distro?
+ZNZC W01 120 L01 Scele Forum week 01
+ZNZC W01 120 L02 zoom sync meeteng
+ZNZC W01 10  L03 editing top 10 list week 00
+ZNZC W01 60  L05 pengertian dan tutorial Gawk dan bash
