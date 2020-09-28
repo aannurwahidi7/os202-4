@@ -1,13 +1,23 @@
 # Log Format
 # ZNZC week# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logcodes.txt
-ZNZC W00 60  L03 setup repo untuk OS
-ZNZC W00 60  L04 Init GitHub Pages dan 
+ZNZC W00  60 L03 setup repo untuk OS
+ZNZC W00  60 L04 Init GitHub Pages dan 
 ZNZC W00 100 L02 zoom meeting
-ZNZC W00 60  L99 Course Udacity: Intro to Operating Systems
-ZNZC W00 7   L99 Youtube: Ubuntu Vs Debian | Which is the Best Linux Distro?
+ZNZC W00  60 L99 Course Udacity: Intro to Operating Systems
+ZNZC W00   7 L99 Youtube: Ubuntu Vs Debian | Which is the Best Linux Distro?
 ZNZC W01 120 L01 Scele Forum week 01
 ZNZC W01 120 L02 zoom sync meeteng
-ZNZC W01 10  L03 editing top 10 list week 00
-ZNZC W01 60  L05 pengertian dan tutorial Gawk dan bash
-ZNZC W01 10  L05 tutorial msauk ke BIOS di win10
+ZNZC W01  10 L03 editing top 10 list week 00
+ZNZC W01  60 L05 pengertian dan tutorial Gawk dan bash
+ZNZC W01  10 L05 tutorial msauk ke BIOS di win10
+ZNZC W01  20 L09 AsDos: asking
+ZNZC W01  30 L01 forum about linux command line
+ZNZC W01  20 L11 Assignment #1
+ZNZC W01  10 L12 Assignment #2
+ZNZC W01  20 L13 Assignment #3
+ZNZC W01  30 L14 Assignment #4
+ZNZC W01  20 L15 Assignment #5
+ZNZC W01  40 L16 Assignment #6
+ZNZC W01  10 L17 Assignment #7
+ZNZC W01 120 L18 Assignment #8
