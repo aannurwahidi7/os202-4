@@ -1,8 +1,6 @@
-W00:
- 1.akbarrafs
- 2.alifyandra
- 3.aulia-adil
-W01:
- 1.aulia-adil
- 2.alifyandra
- 3.akbarrafs
+ZCZC W00 akbarrafs
+ZCZC W00 alifyandra
+ZCZC W00 aulia-adil
+ZCZC W01 aulia-adil
+ZCZC W01 alifyandra
+ZCZC W01 akbarrafs
