@@ -69,3 +69,7 @@ ZCZC W02 120 L11 Assignment #1
 ZCZC W02   5 L11 Assignment #6
 ZCZC W02  10 L06 Reading: What is VPN
 ZCZC W02 120 L05 GSGS about Security and C Programming Language
+ZCZC W02  30 L22 Youtube: Introduction to C-Programming Language
+ZCZC W02  10 L22 Udacity: What is Proccess in Operating System
+ZCZC W02  10 L11 Reading: Guide to Internet Safety & Privacy
+ZCZC W02   4 L22 Youtube: Asymmetric encryption - Simply explained
