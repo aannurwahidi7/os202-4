@@ -75,4 +75,6 @@ ZCZC W02  10 L11 Reading: Guide to Internet Safety & Privacy
 ZCZC W02   4 L22 Youtube: Asymmetric encryption - Simply explained
 ZCZC W02  10 L25 C-Lang: install Code:blocks and try "Hello World"
 ZCZC W02   5 L25 C-lang: writing functional code on C
-
+ZCZC W03 120 L02 Zoom Meeting sync
+ZCZC W03  10 L10 Update .bash_aliases: Add chtoken and verifytoken
+ZCZC W03   2 L09 Asking Asdos
