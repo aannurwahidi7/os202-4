@@ -78,3 +78,16 @@ ZCZC W02   5 L25 C-lang: writing functional code on C
 ZCZC W03 120 L02 Zoom Meeting sync
 ZCZC W03  10 L10 Update .bash_aliases: Add chtoken and verifytoken
 ZCZC W03   2 L09 Asking Asdos
+ZCZC W03  60 L01 SCELE forum: decrypting file
+ZCZC W03  60 L01 SCELE forum: encrypting file
+ZCZC W03  30 L05 GSGS: Public-key(gpg)
+ZCZC W03  30 L05 GSGS: Belajar memakai GNU
+ZCZC W03  10 L11 Assignment #10
+ZCZC W03  15 L11 Assignment #9
+ZCZC W03   5 L11 Assignment #8
+ZCZC W03  10 L11 Assignment #7
+ZCZC W03   5 L11 Assignment #6
+ZCZC W03  15 L11 Assignment #4
+ZCZC W03  30 L11 Assignment #3
+ZCZC W03  60 L22 Youtube: Symmetric Encryption with GPG
+
