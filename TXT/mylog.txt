@@ -90,4 +90,12 @@ ZCZC W03   5 L11 Assignment #6
 ZCZC W03  15 L11 Assignment #4
 ZCZC W03  30 L11 Assignment #3
 ZCZC W03  60 L22 Youtube: Symmetric Encryption with GPG
-
+ZCZC W03  30 L22 Youtube: File concept and access method
+ZCZC W03  20 L22 Youtube: File Sharing
+ZCZC W03  10 L22 Youtube: File Protection
+ZCZC W03   5 L22 Youtube: File System Structure-Layered
+ZCZC W03   4 L22 Youtube: File Allocation Methods - Contigous
+ZCZC W03   3 L22 Youtube: NFS (Network File Systems)
+ZCZC W03 120 L11 Assignment #5
+ZCZC W03 120 L11 Assignment #1
+ZCZC W03  20 L11 Assignment #2
