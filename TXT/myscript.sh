@@ -4,7 +4,7 @@
 # Tue 29 Sep 2020 11:02:39 AM WIB
 
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh myW03disk.txt myW03token.txt"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
