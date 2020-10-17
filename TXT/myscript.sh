@@ -1,12 +1,12 @@
 #!/bin/bash
 # Althof Rafaella Ramdhan
-# Mon Sep 28 22:03:27 WIB 2020
-# Tue 29 Sep 2020 11:02:39 AM WIB
+# Sat 17 Oct 2020 02:15:14 PM WIB
 
 
-FILES="my*.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
@@ -20,6 +20,8 @@ gpg -o $SHA.asc -a -sb $SHA
 
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
+
+gitacp
 
 exit 0
 

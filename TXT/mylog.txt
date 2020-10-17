@@ -51,7 +51,7 @@ ZCZC W01  20 L13 Assignment #3
 ZCZC W01  30 L14 Assignment #4
 ZCZC W01  20 L15 Assignment #5
 ZCZC W01  40 L16 Assignment #6
-ZCZC W01  10 L17 Assignment #7
+ZCZC W01  10 L17 Assignment #7https://classroom.udacity.com/courses/ud923/lessons/2967618567/concepts/29603785850923
 ZCZC W01 120 L18 Assignment #8
 ZCZC W02 120 L02 ZOOM meeting
 ZCZC W02  20 L22 Youtube Operating Systems (W02)
@@ -68,7 +68,7 @@ ZCZC W02  10 L06 Reading: Asymmetric Encryption
 ZCZC W02 120 L11 Assignment #1
 ZCZC W02   5 L11 Assignment #6
 ZCZC W02  10 L06 Reading: What is VPN
-ZCZC W02 120 L05 GSGS: about Security and C Programming Language
+ZCZC W02 120 https://classroom.udacity.com/courses/ud923/lessons/2967618567/concepts/29603785850923L05 GSGS: about Security and C Programming Language
 ZCZC W02  30 L22 Youtube: Introduction to C-Programming Language
 ZCZC W02  10 L24 Udacity: What is Proccess in Operating System
 ZCZC W02  10 L11 Reading: Guide to Internet Safety & Privacy
@@ -99,3 +99,14 @@ ZCZC W03   3 L22 Youtube: NFS (Network File Systems)
 ZCZC W03 120 L11 Assignment #5
 ZCZC W03 120 L11 Assignment #1
 ZCZC W03  20 L11 Assignment #2
+ZCZC W04 120 L02 Zoom Meeting sync
+ZCZC W04 120 L11 Assignment #5
+ZCZC W04  10 L11 Assignment #6
+ZCZC W04  15 L11 Assignment #7
+ZCZC W04  10 L11 Assignment #8
+ZCZC W04  10 L11 Assignment #9
+ZCZC W04 180 L11 Assignment #1
+ZCZC W04  90 L11 Assignment #3
+ZCZC W04   5 L09 Asdos: Asking
+ZCZC W04   2 L11 Assignment #2
+ZCZC W04  60 L11 Assignment #4
