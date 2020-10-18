@@ -21,7 +21,9 @@ gpg -o $SHA.asc -a -sb $SHA
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
-gitacp
+git add .
+git commit -m"OS202 althof3"
+git push origin master
 
 exit 0
 
